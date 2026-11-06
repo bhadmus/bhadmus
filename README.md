@@ -25,20 +25,46 @@
 
 ## 👋 About Me
 
-I'm a Quality Assurance Engineer with **10+ years** of experience in automated testing and Quality Engineering strategy. I use **Cypress, Playwright, Robot Framework and Python** to raise software quality and shorten release cycles.
+## 👋 About Me
 
-- 🏥 Currently: **QA Automation Engineer at Northumbria Healthcare NHS Foundation Trust**
-- 📡 Previously: **Test Lead at Virgin Media O2**, leading a 13-member QA team
-- 🌵 **Cypress Ambassador** (2022 – present)
-- 🤖 Actively weaving **GenAI and AI-assisted coding** (Cursor, GitHub Copilot, Claude) into daily test authoring
-- 🎓 Passionate about **mentoring** and helping others level up their test automation skills
-- 🌍 Led and shaped testing across **13+ organisations** in the UK, USA, Netherlands, Germany and Nigeria
+I'm **Ademola Bhadmus**, a Senior Quality Assurance Engineer, Software Development Engineer in Test (SDET), and Quality Engineering professional with **10+ years of experience** designing, implementing and improving software testing strategies across diverse technology environments.
+
+My experience spans **web, mobile, API and performance test automation**, with a strong focus on building scalable automation frameworks, embedding quality into software delivery pipelines, and helping engineering teams deliver reliable products.
+
+I believe quality engineering goes beyond finding bugs. It is about building the right processes, tools, engineering culture and technical capabilities that prevent defects and make software delivery predictable.
+
+Throughout my career, I have:
+
+- :anchor: Led and mentored QA teams across multiple organisations. 
+- :gear: Designed and implemented automation frameworks from the ground up.
+- :satellite: Championed Behaviour-Driven Development (BDD) and shift-left testing.
+- :statue_of_liberty: Integrated automated testing into CI/CD pipelines.
+- :test_tube: Built developer tools that simplify and accelerate testing workflows.
+- :moyai: Introduced AI-assisted development practices into test automation.
+- :mortar_board: Trained QA engineers and software developers in automation best practices.
+
+I'm particularly interested in the intersection of **Quality Engineering, AI, agentic automation and developer productivity**.
+
+## 🎯 Areas of Expertise
+
+| Area | Expertise |
+|:---|:---|
+| **Quality Engineering** | QA Strategy, Test Planning, Shift-left Testing, Agile Quality Practices |
+| **UI Automation** | Cypress, Playwright, Selenium, Robot Framework, WebdriverIO, Puppeteer |
+| **Mobile Automation** | Appium, Mobile Web and Native Application Testing |
+| **API Automation** | Postman, Newman, REST Assured, Karate, Playwright API |
+| **Performance Testing** | JMeter, k6, Locust |
+| **Programming** | JavaScript, TypeScript, Python, Java |
+| **BDD & Testing Practices** | Cucumber, Reqnroll, xUnit, TDD, BDD |
+| **CI/CD & DevOps** | GitHub Actions, Azure DevOps, GitLab, Bitbucket, TeamCity, Docker |
+| **AI-Augmented QA** | Cursor, GitHub Copilot, Claude, Playwright MCP, GenAI Test Automation |
+| **Leadership & Mentoring** | QA Team Leadership, Technical Coaching, Knowledge Sharing, Training |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**AI & GenAI tooling**
+:moyai: **AI & GenAI tooling**
 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=plastic&logo=githubcopilot&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=plastic&logo=anthropic&logoColor=white)

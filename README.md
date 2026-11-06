@@ -58,16 +58,18 @@ I'm particularly interested in the intersection of **Quality Engineering, AI, ag
 
 ## 🛠️ Technology Stack
 
-### Test Automation
-<p>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robot Framework"/>
-  <img src="https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white" alt="Appium"/>
-</p>
+**Test Automation**
 
-### Programming Languages
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=flat-square&logo=robotframework&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![WebdriverIO](https://img.shields.io/badge/WebdriverIO-EA5906?style=flat-square&logo=webdriverio&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-EE376B?style=flat-square&logo=appium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
+
+**Programming Languages**
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -76,14 +78,27 @@ I'm particularly interested in the intersection of **Quality Engineering, AI, ag
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
 </p>
 
-### API, Performance & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
-</p>
+**API & Performance Testing**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Newman](https://img.shields.io/badge/Newman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![REST-Assured](https://img.shields.io/badge/REST--Assured-3E8E41?style=flat-square)
+![Karate](https://img.shields.io/badge/Karate-000000?style=flat-square)
+![Locust](https://img.shields.io/badge/Locust-3AA335?style=flat-square)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+
+**CI/CD & Cloud**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1F2328?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-E6F2FF?style=social&logo=data:image/svg+xml;base64,PHN2ZyBpZD0iZjQzMzc1MDYtNWQ5NS00ZTgwLWI3Y2EtNjg0OThjNmUwMDhlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOCAxOCI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJiYTQyMDI3Ny03MDBlLTQyY2MtOWRlOS01Mzg4YTVjMTZlNTQiIHgxPSI5IiB5MT0iMTYuOTciIHgyPSI5IiB5Mj0iMS4wMyIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzAwNzhkNCIvPjxzdG9wIG9mZnNldD0iMC4xNiIgc3RvcC1jb2xvcj0iIzEzODBkYSIvPjxzdG9wIG9mZnNldD0iMC41MyIgc3RvcC1jb2xvcj0iIzNjOTFlNSIvPjxzdG9wIG9mZnNldD0iMC44MiIgc3RvcC1jb2xvcj0iIzU1OWNlYyIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzVlYTBlZiIvPjwvbGluZWFyR3JhZGllbnQ%2BPC9kZWZzPjxwYXRoIGlkPSJhOTFmMGNhNC04ZmI3LTQwMTktOWMwOS0wYTUyZTJjMDU3NTQiIGQ9Ik0xNyw0djkuNzRsLTQsMy4yOC02LjItMi4yNlYxN0wzLjI5LDEyLjQxbDEwLjIzLjhWNC40NFptLTMuNDEuNDlMNy44NSwxVjMuMjlMMi41OCw0Ljg0LDEsNi44N3Y0LjYxbDIuMjYsMVY2LjU3WiIgZmlsbD0idXJsKCNiYTQyMDI3Ny03MDBlLTQyY2MtOWRlOS01Mzg4YTVjMTZlNTQpIi8%2BPC9zdmc%2B)
+![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=flat-square&logo=teamcity&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-FFF3C4?style=plastic&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCI%2BCiAgICA8ZGVmcz4KICAgICAgICA8cmFkaWFsR3JhZGllbnQgY3g9IjUwLjE0MDc0MDclIiBjeT0iNTAuMDAzMDg2NCUiIGZ4PSI1MC4xNDA3NDA3JSIgZnk9IjUwLjAwMzA4NjQlIiByPSI1MC4xMTg4MjcyJSIgaWQ9InJhZGlhbEdyYWRpZW50LTEiPgogICAgICAgICAgICA8c3RvcCBzdG9wLWNvbG9yPSIjNzk3OTc5IiBvZmZzZXQ9IjAlIj4KCjwvc3RvcD4KICAgICAgICAgICAgPHN0b3Agc3RvcC1jb2xvcj0iIzRDNEM0QyIgb2Zmc2V0PSIxMDAlIj4KCjwvc3RvcD4KICAgICAgICA8L3JhZGlhbEdyYWRpZW50PgogICAgPC9kZWZzPgoJPGc%2BCgkJPGNpcmNsZSBmaWxsPSIjRjVCQjYwIiBjeD0iMTI3Ljk0OTI2NCIgY3k9IjEyOC42MDM0MzIiIHI9IjEyNy4zOTY1NjgiPgoKPC9jaXJjbGU%2BCgkJPGNpcmNsZSBmaWxsPSIjRTg2RjMyIiBjeD0iMTE0Ljk2MDg5NCIgY3k9IjExNS42MTUwNjIiIHI9IjExNC42ODQ1NDYiPgoKPC9jaXJjbGU%2BCgkJPGNpcmNsZSBmaWxsPSIjRTUzRDQyIiBjeD0iMTMwLjE2MDA1MSIgY3k9IjEwMC40MTU5MDYiIHI9Ijk5LjQ4NTM4OSI%2BCgo8L2NpcmNsZT4KCQk8Y2lyY2xlIGZpbGw9IiNCRkQxNDEiIGN4PSIxMzguMTc0MTUxIiBjeT0iMTA4LjQzMDAwNiIgcj0iOTEuNDcxMjg4MiI%2BCgo8L2NpcmNsZT4KCQk8Y2lyY2xlIGZpbGw9IiM2REI2NEMiIGN4PSIxMzEuNTQxNzkyIiBjeT0iMTE1LjA2MjM2NiIgcj0iODQuODM4OTI4OSI%2BCgo8L2NpcmNsZT4KCQk8Y2lyY2xlIGZpbGw9IiNBRkRCRTciIGN4PSIxMTguMDAwNzI1IiBjeT0iMTAxLjc5NzY0NyIgcj0iNzEuMjk3ODYyMSI%2BCgo8L2NpcmNsZT4KCQk8Y2lyY2xlIGZpbGw9IiM1N0JBREYiIGN4PSIxMjkuNjA3MzU0IiBjeT0iODkuOTE0NjciIHI9IjU5LjY5MTIzMzQiPgoKPC9jaXJjbGU%2BCgkJPGNpcmNsZSBmaWxsPSIjMDJCMkQ2IiBjeD0iMTM3LjA2ODc1OCIgY3k9Ijk3LjM3NjA3NDIiIHI9IjUyLjUwNjE3NzUiPgoKPC9jaXJjbGU%2BCgkJPGNpcmNsZSBmaWxsPSJ1cmwoI3JhZGlhbEdyYWRpZW50LTEpIiBjeD0iMTI5LjMzMTAwNiIgY3k9IjEwNC44Mzc0NzgiIHI9IjQ0Ljc2ODQyNSI%2BCgo8L2NpcmNsZT4KCQk8Y2lyY2xlIGZpbGw9IiMyMzFGMjAiIGN4PSIxMjkuMzMxMDA2IiBjeT0iMTA0LjgzNzQ3OCIgcj0iNDQuNzY4NDI1Ij4KCjwvY2lyY2xlPgoJCTxwYXRoIGQ9Ik0xNDEuMDg4MDk2LDk4Ljk3MTE5NjYgQzE0NS41MjY3OTIsMTAwLjk2Mjg2OSAxNTEuNjQ3ODMsOTYuOTU1MTM2MSAxNTQuNzU5ODE4LDkwLjAxOTY3NDggQzE1Ny44NzE4MDYsODMuMDg0MjEzNiAxNTYuNzk2Mjk3LDc1Ljg0NzM0MiAxNTIuMzU3NjAyLDczLjg1NTY2OTcgQzE0Ny45MTg5MDcsNzEuODYzOTk3NCAxNDEuNzk3ODY4LDc1Ljg3MTczMDIgMTM4LjY4NTg4LDgyLjgwNzE5MTQgQzEzNS41NzM4OTIsODkuNzQyNjUyNiAxMzYuNjQ5NDAxLDk2Ljk3OTUyNDMgMTQxLjA4ODA5Niw5OC45NzExOTY2IEwxNDEuMDg4MDk2LDk4Ljk3MTE5NjYgWiIgZmlsbD0iI0ZGRkZGRiI%2BCgo8L3BhdGg%2BCgk8L2c%2BCjwvc3ZnPg%3D%3D)
+![TestMu](https://img.shields.io/badge/TestMu_(formerly_LambdaTest)-1F2328?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOC4wMiAyMC4yNyIgZmlsbD0ibm9uZSI%2BPHBhdGggZD0iTTE4LjAxMzcgMEgxMi42MDk3VjEzLjA1OTVIMTguMDEzN1YwWiIgZmlsbD0iI2ZmZmZmZiIvPjxwYXRoIGQ9Ik01LjQwNDMgMEgwLjAwMDM2MDQ4OVY3LjQzMDQxTDUuNDA0MyAxMy4wNTk1VjBaIiBmaWxsPSIjZmZmZmZmIi8%2BPHBhdGggZD0iTTUuNDA0MyAxMy4wNTk1SDAuMDAwMzYwNDg5VjIwLjI2NDhINS40MDQzVjEzLjA1OTVaIiBmaWxsPSIjZmZmZmZmIi8%2BPHBhdGggZD0iTTEyLjYxMDQgMTMuMDU5NUg1LjQwNTFMOS42ODMyMiAxOC40NjM0SDEyLjYxMDRWMTMuMDU5NVoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ### AI & Emerging Technologies
 <p>

@@ -52,7 +52,7 @@ I'm particularly interested in the intersection of **Quality Engineering, AI, ag
 | **Mobile Automation** | Appium, Mobile Web and Native Application Testing |
 | **API Automation** | Postman, Newman, REST Assured, Karate, Playwright API |
 | **Performance Testing** | JMeter, k6, Locust |
-| **Programming** | JavaScript, TypeScript, Python, Java |
+| **Programming** | JavaScript, TypeScript, Python, Java, .NET |
 | **BDD & Testing Practices** | Cucumber, Reqnroll, xUnit, TDD, BDD |
 | **CI/CD & DevOps** | GitHub Actions, Azure DevOps, GitLab, Bitbucket, TeamCity, Docker |
 | **AI-Augmented QA** | Cursor, GitHub Copilot, Claude, Playwright MCP, GenAI Test Automation |
@@ -111,7 +111,7 @@ I'm particularly interested in the intersection of **Quality Engineering, AI, ag
 ![TestMu](https://img.shields.io/badge/TestMu_(formerly_LambdaTest)-1F2328?style=plastic&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOC4wMiAyMC4yNyIgZmlsbD0ibm9uZSI%2BPHBhdGggZD0iTTE4LjAxMzcgMEgxMi42MDk3VjEzLjA1OTVIMTguMDEzN1YwWiIgZmlsbD0iI2ZmZmZmZiIvPjxwYXRoIGQ9Ik01LjQwNDMgMEgwLjAwMDM2MDQ4OVY3LjQzMDQxTDUuNDA0MyAxMy4wNTk1VjBaIiBmaWxsPSIjZmZmZmZmIi8%2BPHBhdGggZD0iTTUuNDA0MyAxMy4wNTk1SDAuMDAwMzYwNDg5VjIwLjI2NDhINS40MDQzVjEzLjA1OTVaIiBmaWxsPSIjZmZmZmZmIi8%2BPHBhdGggZD0iTTEyLjYxMDQgMTMuMDU5NUg1LjQwNTFMOS42ODMyMiAxOC40NjM0SDEyLjYxMDRWMTMuMDU5NVoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white)
 
-### AI & Emerging Technologies
+:hotsprings: **AI & Emerging Technologies**
 <p>
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=plastic&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=plastic&logo=anthropic&logoColor=white" alt="Claude"/>

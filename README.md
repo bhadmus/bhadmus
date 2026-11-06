@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,35:3AA335,70:0891B2,100:3E8E41&text=ADEMOLA%20BHADMUS&fontColor=FFFFFF&fontSize=64&fontAlignY=38&fontFamily=Comic%20Sans%20MS&desc=Senior%20Quality%20Engineer%20%7C%20SDET%20%7C%20QA%20Technical%20Leader&descSize=17&descAlignY=61" width="100%" alt="Ademola Bhadmus - Senior Quality Engineer" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=900&color=3AA335&center=true&vCenter=true&width=900&lines=Building+Reliable+Software+Through+Quality+Engineering;Web+%7C+Mobile+%7C+API+Test+Automation;Playwright+%7C+Cypress+%7C+Robot+Framework;AI-Augmented+Test+Automation+%26+Agentic+Testing;Building+Tools+That+Empower+QA+Engineers;Mentoring+the+Next+Generation+of+SDETs" alt="Professional focus areas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=900&color=3AA335&center=true&vCenter=true&width=900&lines=Building+Reliable+Software+Through+Quality+Engineering;Web+%7C+Mobile+%7C+API+Test+Automation+%7C+Performance+Testing;Playwright+%7C+Cypress+%7C+Selenium+%7C+Robot+Framework;AI-Augmented+Test+Automation+%26+Agentic+Testing;Building+Tools+That+Empower+QA+Engineers;Mentoring+the+Next+Generation+of+SDETs" alt="Professional focus areas" />
 
   <br/>
   

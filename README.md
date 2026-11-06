@@ -25,8 +25,6 @@
 
 ## 👋 About Me
 
-## 👋 About Me
-
 I'm **Ademola Bhadmus**, a Senior Quality Assurance Engineer, Software Development Engineer in Test (SDET), and Quality Engineering professional with **10+ years of experience** designing, implementing and improving software testing strategies across diverse technology environments.
 
 My experience spans **web, mobile, API and performance test automation**, with a strong focus on building scalable automation frameworks, embedding quality into software delivery pipelines, and helping engineering teams deliver reliable products.
@@ -72,7 +70,7 @@ I'm particularly interested in the intersection of **Quality Engineering, AI, ag
 ![Playwright + MCP](assets/badges/playwright-mcp.svg)
 
 
-**Test automation**
+:test_tube: **Test automation**
 
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=plastic&logo=cypress&logoColor=white)
 ![Playwright](assets/badges/playwright.svg)
@@ -83,7 +81,7 @@ I'm particularly interested in the intersection of **Quality Engineering, AI, ag
 ![Appium](https://img.shields.io/badge/Appium-EE376B?style=plastic&logo=appium&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=plastic&logo=cucumber&logoColor=white)
 
-**Languages**
+:computer: **Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
@@ -91,7 +89,7 @@ I'm particularly interested in the intersection of **Quality Engineering, AI, ag
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=white)
 
-**API & Performance Testing**
+:steam_locomotive: **API & Performance Testing**
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![Newman](https://img.shields.io/badge/Newman-FF6C37?style=plastic&logo=postman&logoColor=white)
@@ -101,7 +99,7 @@ I'm particularly interested in the intersection of **Quality Engineering, AI, ag
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=plastic&logo=k6&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=plastic&logo=apachejmeter&logoColor=white)
 
-**CI/CD & Cloud**
+:ship: **CI/CD & Cloud**
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=githubactions&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=plastic&logo=gitlab&logoColor=white)
